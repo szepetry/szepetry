@@ -15,19 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Szepetry%20says%20hi!&height=100&section=header"/>
-</p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/aryanjalali/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-</p>
+<h1 align="center">Hi 👋, I'm Aryan</h1>
+<h3 align="center">MS in Computer Science @ Columbia University</h3>
 
 <!-- <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
