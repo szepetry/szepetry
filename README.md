@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szepetry&theme=buddhism&row=1" alt="szepetry" /></a> </p>
 
 - 📫 How to reach me **aj3085@columbia.edu**
-
 - 📄 Know about my experiences [https://resume-buck8.s3.amazonaws.com/Aryan+Jalali_2023.pdf](https://resume-buck8.s3.amazonaws.com/Aryan+Jalali_2023.pdf)
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
+<div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
         <p><a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a> <a style="text-decoration: none;"
@@ -47,9 +46,7 @@ Here are some ideas to get you started:
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" /> </a>
-        </p>
-
-        <p><a style="text-decoration: none;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+        </p><p><a style="text-decoration: none;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                     alt="react" width="40" height="40" /> </a> <a style="text-decoration: none;"
                 href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
@@ -172,9 +169,9 @@ Here are some ideas to get you started:
                 rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch"
                     width="40" height="40" /> </a> <a style="text-decoration: none;"
                 href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
-        </p>
-    </div> -->
+                <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a></p>
+    </div>
+
 
 <!-- <p align="left">
 <h3>Programming Languages:</h3>
@@ -197,15 +194,16 @@ Here are some ideas to get you started:
 <div><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> </div>
 <br/>Software:<br/>
 <div><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a></div>
-  
- </p> -->
+
+</p> -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szepetry&show_icons=true&locale=en&layout=compact" alt="szepetry" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szepetry&show_icons=true&locale=en&theme=synthwave" alt="szepetry" /></p> -->
+<!-- <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=szepetry&show_icons=true&locale=en&theme=synthwave" alt="szepetry" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szepetry" alt="szepetry" /></p> -->
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈  My GitHub History!</h2>
 
 ![Snake animation](https://github.com/szepetry/szepetry/blob/output/github-contribution-grid-snake.svg)
+
