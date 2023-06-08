@@ -18,77 +18,20 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">MS in Computer Science @ Columbia University</h3>
 
-<!-- <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
-</p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=szepetry&label=Profile%20views&color=b40ea6&style=flat" alt="szepetry" /> </p>
 
-<!-- ---
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szepetry" alt="szepetry" /></a> </p>
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+- 📫 How to reach me **aj3085@columbia.edu**
 
-```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
-  ]
-company: Soulber
+- 📄 Know about my experiences [https://resume-buck8.s3.amazonaws.com/Aryan+Jalali_2023.pdf](https://resume-buck8.s3.amazonaws.com/Aryan+Jalali_2023.pdf)
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-```
-  
----   -->
-  
-<!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<a href="https://linkedin.com/in/aryanjalali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanjalali" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10862698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10862698" height="30" width="40" /></a>
+<a href="https://instagram.com/szepetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szepetry" height="30" width="40" /></a>
 </p>
- -->
----
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
