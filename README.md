@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
+<!-- <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
         <p><a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a> <a style="text-decoration: none;"
@@ -174,7 +174,7 @@ Here are some ideas to get you started:
                 href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
                 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
         </p>
-    </div>
+    </div> -->
 
 <!-- <p align="left">
 <h3>Programming Languages:</h3>
