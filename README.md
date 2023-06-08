@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=szepetry&show_icons=true&locale=en&layout=compact" alt="szepetry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szepetry&show_icons=true&locale=en&theme=synthwave" alt="szepetry" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szepetry&show_icons=true&locale=en&theme=synthwave" alt="szepetry" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szepetry&" alt="szepetry" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szepetry" alt="szepetry" /></p> -->
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
