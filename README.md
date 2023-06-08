@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=szepetry&label=Profile%20views&color=b40ea6&style=flat" alt="szepetry" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szepetry" alt="szepetry" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?szepetry=ryo-ma&theme=buddhism" alt="szepetry" /></a> </p>
 
 - 📫 How to reach me **aj3085@columbia.edu**
 
