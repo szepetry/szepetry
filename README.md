@@ -31,35 +31,9 @@ Here are some ideas to get you started:
 <!-- <a href="https://stackoverflow.com/users/10862698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10862698" height="30" width="40" /></a> -->
 <a href="https://instagram.com/szepetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szepetry" height="30" width="40" /></a>
 </p>
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div xmlns="http://www.w3.org/1999/xhtml">
-<style>
-.container {
-display: flex;
-width: 100%;
-height: 300px;
-background-color: black;
-color: white;
-}
-</style>
-
-<div class="container">
-<h1>Hi there, my name is Nikola 👋</h1>
-</div>
-</div>
-</foreignObject>
-</svg>
 
 <h3 align="left">Languages and Tools:</h3>
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"> 
-<style>
-.container {
-    display: grid !important;
-    grid-template-columns: 1fr 1fr !important;
-    text-align: center;
-}</style>
-<div class="container">
+<div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
         <p><a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a> <a style="text-decoration: none;"
@@ -197,11 +171,6 @@ color: white;
                 href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
                 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a></p>
     </div>
-
-
-</div>
-</foreignObject>
-</svg>
 
 
 <!-- <p align="left">
