@@ -31,6 +31,25 @@ Here are some ideas to get you started:
 <!-- <a href="https://stackoverflow.com/users/10862698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10862698" height="30" width="40" /></a> -->
 <a href="https://instagram.com/szepetry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szepetry" height="30" width="40" /></a>
 </p>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<style>
+.container {
+display: flex;
+width: 100%;
+height: 300px;
+background-color: black;
+color: white;
+}
+</style>
+
+<div class="container">
+<h1>Hi there, my name is Nikola 👋</h1>
+</div>
+</div>
+</foreignObject>
+</svg>
 
 <h3 align="left">Languages and Tools:</h3>
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"> 
