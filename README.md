@@ -34,15 +34,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"> 
-<!-- <style>
+<style>
 .container {
-    display: flex;
-    width: 100%;
-    height: 300px;
-    background-color: black;
-    color: white;
-}</style> -->
-<div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    text-align: center;
+}</style>
+<div class="container">
         <p><a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a> <a style="text-decoration: none;"
