@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"> 
+<!-- <style>
+.container {
+    display: flex;
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+}</style> -->
 <div style="display: grid !important; grid-template-columns: 1fr 1fr !important; text-align: center; ">
         <p><a style="text-decoration: none;" href="https://www.python.org" target="_blank" rel="noreferrer"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -171,6 +180,11 @@ Here are some ideas to get you started:
                 href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
                 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a></p>
     </div>
+
+
+</div>
+</foreignObject>
+</svg>
 
 
 <!-- <p align="left">
