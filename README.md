@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szepetry&theme=buddhism&row=1" alt="szepetry" /></a> </p>
 
-- 📫 How to reach me **aj3085@columbia.edu**
+- 📫 How to reach me **aryanjalali1234@gmail.com**
 - 📄 Know about my experiences [https://szep-resume-bucket.s3.us-west-1.amazonaws.com/AryanJalali_resume.pdf](https://szep-resume-bucket.s3.us-west-1.amazonaws.com/AryanJalali_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
